@@ -1,0 +1,53 @@
+#header-nav {
+	background-color: #BA55D3;
+	border: 2px solid black;
+	border-radius: 0;
+}
+
+.navbar-brand a {
+	color: black;
+	font-size: 20px;
+	padding: 0 20px 0 20px;
+	margin: 0;
+	font-weight: bold;
+}
+h1, h3, a {
+	font-family: serif;
+	font-weight: bold;
+	text-shadow: 1px 2px 1px chartreuse;
+	line-height: .75;
+	color: #cd853f;
+}
+
+* {
+	color: darkred;
+}
+
+div ul li{
+	background-color: tan;
+	border: 1px solid black;
+	font-size: 20px;
+	color: green;
+}
+.navbar-header div ul li a{
+	color: red;
+}
+section {
+	margin: 30px;
+	background-color: #BA55D3;
+	padding: 0 20px 0 20px;
+}
+
+a:hover, a:focus{
+text-shadow: 2px 3px 4px darkorchid;
+text-decoration: none;
+color: gold;
+}
+
+p {
+	font-size: 12px;
+	font-family: serif;
+}
+.container-fluid div h3 {
+	font-weight: bold;
+}
